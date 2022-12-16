@@ -1,0 +1,27 @@
+body {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #333;
+}
+
+.HJ_style .name{
+  color: dodgerblue;
+}
+
+.HJ_style .age{
+  color: rgb(181, 255, 8);
+}
+
+.HJ_style .mbti {
+  color: rgb(194, 19, 194);
+}
+
+.HJ_style .fv_food {
+  color: rgb(255, 30, 41);
+}
+
+.HJ_style .github {
+  color: rgb(57, 228, 5);
+}
